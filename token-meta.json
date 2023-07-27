@@ -1,6 +1,8 @@
 {
   "name": "db coin",
   "symbol": "dbc",
+  "uri": "https://raw.githubusercontent.com/NaveeN-929/crypto/main/token-meta.json",
   "description": "decenter-bet-coin custom token owned by Copperbet",
-  "image": "https://dev.cbcache.com/crypto/dbCoin.png"
+  "logo": "https://dev.cbcache.com/crypto/dbCoin.png",
+  "decimals": 2
 }
